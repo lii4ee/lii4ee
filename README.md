@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Angelo Alexander
-- 👀 I’m trying to be a Better Person
+- 👀 
 - 🌱
 
 <!---
