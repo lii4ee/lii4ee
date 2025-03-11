@@ -7,3 +7,5 @@ JAVA
 [Resume](https://lii4ee.github.io/Resume/)
 
 [Playwright API Automation](https://github.com/lii4ee/Automation-Exercise)
+
+[Data Science Projects](https://github.com/lii4ee/Projects)
