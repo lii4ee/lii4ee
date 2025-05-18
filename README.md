@@ -1,5 +1,5 @@
 # 💫 About Me:
-:) ...<br>
+:) <br>
 
 # 💻 Tech Stack:<br>
 I can do everything.... <br>
